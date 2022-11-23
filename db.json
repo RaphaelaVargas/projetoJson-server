@@ -1,0 +1,72 @@
+{
+    "livro":[
+        {
+            "obra": "A hora da estrela",
+            "autorID": "Clarice Lispector",
+            "id":1
+        },
+        {
+            "obra": "Dom Casmurro",
+            "autorID": "Machado de Assis",
+            "id":2
+        },
+        {
+            "obra": "O tempo e o vento",
+            "autorID": "Erico Verissimo",
+            "id":3
+        },
+        {
+            "obra": "Vidas secas",
+            "autorID": "Graciliano Ramos",
+            "id":4
+        }
+
+    ],
+    "funcionarios":[
+        {
+            "nome":"Pedro",
+            "area":"gerente",
+            "id":1
+        },
+        {
+            "nome":"Lucio",
+            "area":"atendente",
+            "id":2
+        },
+        {
+            "nome":"Bruna",
+            "area":"caixa",
+            "id":3
+        },
+        {
+            "nome":"Rodrigo",
+            "area":"atendente",
+            "id":4
+        }
+    ],
+    "estante":[
+        {
+            "numero": 1,
+            "genero":"romance",
+            "id":1
+        },
+        {
+            "numero": 2,
+            "genero":"ficção",
+            "id":2
+        },
+        {
+            "numero": 3,
+            "genero":"poesia",
+            "id":3
+        },
+        {
+            "numero": 4,
+            "genero":"nacional",
+            "id":3
+        }
+
+    ]
+
+    
+}
